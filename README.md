@@ -1,3 +1,3 @@
 # MeninoJava
 
-MeninoJava adalah projek akhir dari salah satu mata kuliah yang saya ikuti di Universitas YARSI pada semester 5. Projek ini adalah program untuk pemesanan tiket bioskop online, projek ini menggunakan bahasa pemrograman java yang menggunakan 4 design pattern yaitu CompositeDesignPattern, SingletonDesignPattern, FactoryDesignPattern, StrategyDesignPattern.
+MeninoJava is the final project for one of the courses I am taking at Universitas YARSI in the 5th semester. This project is an online movie ticket booking program developed using Java and incorporates four design patterns: Composite Design Pattern, Singleton Design Pattern, Factory Design Pattern, and Strategy Design Pattern.
